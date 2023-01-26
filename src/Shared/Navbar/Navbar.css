@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar img{
+    background-color: #ECF3FF;
+}
+.navbar h3{
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+.icon{
+    margin-right: 26px;
+}
